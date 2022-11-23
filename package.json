@@ -18,5 +18,14 @@
     "nodemon": "^2.0.20",
     "uuid": "^9.0.0"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-JS19/New-Login-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andrew-JS19/New-Login-System/issues"
+  },
+  "homepage": "https://github.com/Andrew-JS19/New-Login-System#readme",
   "description": ""
 }
